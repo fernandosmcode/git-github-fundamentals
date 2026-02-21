@@ -1,6 +1,6 @@
 # 🌐 Git & GitHub Fundamentals
 
-Repositório criado para armazenar os dois exercícios práticos realizados durante o curso de Git e GitHub, do Curso em Vídeo (20 horas).
+Repositório criado para armazenar os dois exercícios práticos realizados durante o curso **“Git e GitHub”** do Curso em Vídeo (20 horas).
 
 ---
 
